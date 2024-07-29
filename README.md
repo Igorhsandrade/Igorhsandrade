@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Igorhsandrade
+- 👋 Hi, I’m @Igorhsandrade (he/him)
 - 👀 I’m interested in exploring opportunities to work on innovative projects
 - 🌱 I’m currently learning: Python, ReactJS, C# .NET
 - 💞️ I’m looking to collaborate on teams where I can learn from experienced developers while also bringing my enthusiasm and fresh perspectives to the table.
 - 📫 How to reach me: <a href="mailtp:igorhsandrade@gmail.com.br">igorhsandrade@gmail.com<a> / +55 (41) 99778-4025
-- 😄 Pronouns: He/ Him
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/igorhsandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igorhsandrade" height="30" width="40" /></a>
