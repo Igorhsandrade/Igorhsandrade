@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Igorhsandrade (he/him)
 - 👀 I’m interested in exploring opportunities to work on innovative projects
-- 🌱 I’m currently learning: Python, ReactJS, C# .NET
+- 🌱 I’m currently learning: Python, Data Science, SQL, Data Analysis
 - 💞️ I’m looking to collaborate on teams where I can learn from experienced developers while also bringing my enthusiasm and fresh perspectives to the table.
 - 📫 How to reach me: <a href="mailtp:igorhsandrade@gmail.com.br">igorhsandrade@gmail.com<a> / +55 (41) 99778-4025
 
